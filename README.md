@@ -20,6 +20,11 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\install.ps1"
 
 설치 후 Codex를 새로 시작하면 Codex hook이 적용됨. Claude 상태는 기존 Claude Status Writer가 `~\.claude\claude_status.json`을 갱신하는 구성에서 함께 반영됨.
 
+## 쉬운 Hatchgundam 설치 방법
+- 설치하기.cmd 파일을 더블클릭해 실행
+- 설치가 완료되면 아무 키나 눌러 창 닫기
+- hatchgundam.exe 파일을 더블클릭해 펫 실행
+
 ## 제거
 
 ```powershell
