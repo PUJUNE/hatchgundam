@@ -1,0 +1,9 @@
+hatchgundam.exe
+build/
+dist/
+*.spec
+src/__pycache__/
+desktop.ini
+working log/
+SESSION_LOG_*.md
+COMPARE_*.md
